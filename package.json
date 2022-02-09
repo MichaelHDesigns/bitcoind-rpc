@@ -1,6 +1,6 @@
 {
-  "name": "feathercoind-rpc",
-  "description": "Feathercoin Client Library to connect to Feathercoin Core via RPC",
+  "name": "hthcoind-rpc",
+  "description": "hthcoin Client Library to connect to hthcoin Core via RPC",
   "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FeatherCoin/feathercoind-rpc"
+    "url": "https://github.com/MicahelHDesigns/hthcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -53,7 +53,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/FeatherCoin/feathercoind-rpc/issues"
+    "url": "https://github.com/MicahelHDesigns/hthcoind-rpc/issues"
   },
-  "homepage": "https://github.com/FeatherCoin/feathercoind-rpc"
+  "homepage": "https://github.com/MicahelHDesigns/hthcoind-rpc"
 }
